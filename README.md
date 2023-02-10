@@ -2,7 +2,7 @@
 ## Bioinformatics Capstone 2023, Cal Poly SLO
 Report by Ava Jakusovszky, Rachel Koenigsberg, and Priyanka Chandar
 
-Repository built for clients to have access to the source code for working directories for Platanus and SPAdes Assemblers. MaSuRCA was never able to be ran, but the source code can be found here: ! insert link !.
+Repository built for clients to have access to the source code for working directories for Platanus and SPAdes Assemblers. MaSuRCA was never able to be ran, but the source code can be found [here.](https://github.com/alekseyzimin/masurca)
 
 ### Data
 Data was sourced from:
