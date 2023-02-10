@@ -2,7 +2,7 @@
 ## Bioinformatics Capstone 2023, Cal Poly SLO
 Report by Ava Jakusovszky, Rachel Koenigsberg, and Priyanka Chandar
 
-Repository built for clients to have access to the source code for working directories for Platanus and SPAdes Assemblers. MaSuRCA was never able to be ran, but the source code from the original repository and residual files from run attempts are maintained.
+Repository built for clients to have access to the source code for working directories for Platanus and SPAdes Assemblers. MaSuRCA was never able to be ran, but the source code can be found here: ! insert link !.
 
 ### Data
 Data was sourced from:
@@ -22,4 +22,4 @@ Due to the size of files, we recommend gathering the data directly on the server
 The files included in each assemblers' respective directories are the environments in which each assembler ran or did not run. Some resources, like QUAST, are duplicated between directories. 
 
 ### View the Comparison Report
-!link to be inserted!
+! link to be inserted !
