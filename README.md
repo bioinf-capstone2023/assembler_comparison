@@ -19,7 +19,9 @@ Due to the size of files, we recommend gathering the data directly on the server
 ```
 
 ### Assembler Access
-The files included in each assemblers' respective directories are the environments in which each assembler ran or did not run. Some resources, like QUAST, are duplicated between directories. 
+The files included in each assemblers' respective directories are the environments in which each assembler ran or did not run. Some resources, like QUAST, were not necessary for running.
+
+Checkout QUAST [here](https://quast.sourceforge.net/docs/manual.html#sec1)
 
 ### View the Comparison Report
 ! link to be inserted !
