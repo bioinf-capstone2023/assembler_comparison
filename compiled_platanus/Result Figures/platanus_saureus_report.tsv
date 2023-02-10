@@ -1,0 +1,23 @@
+Assembly	saureus_out_contig
+# contigs (>= 0 bp)	604
+# contigs (>= 1000 bp)	102
+# contigs (>= 5000 bp)	80
+# contigs (>= 10000 bp)	65
+# contigs (>= 25000 bp)	41
+# contigs (>= 50000 bp)	13
+Total length (>= 0 bp)	2813070
+Total length (>= 1000 bp)	2738143
+Total length (>= 5000 bp)	2671727
+Total length (>= 10000 bp)	2558708
+Total length (>= 25000 bp)	2147964
+Total length (>= 50000 bp)	1137803
+# contigs	116
+Largest contig	146789
+Total length	2748335
+GC (%)	32.63
+N50	40690
+N90	12501
+auN	57396.3
+L50	19
+L90	58
+# N's per 100 kbp	0.00

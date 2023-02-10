@@ -1,0 +1,23 @@
+Assembly	afumi_out_contig
+# contigs (>= 0 bp)	43663
+# contigs (>= 1000 bp)	2027
+# contigs (>= 5000 bp)	1328
+# contigs (>= 10000 bp)	892
+# contigs (>= 25000 bp)	316
+# contigs (>= 50000 bp)	67
+Total length (>= 0 bp)	29691099
+Total length (>= 1000 bp)	27158034
+Total length (>= 5000 bp)	25244918
+Total length (>= 10000 bp)	22084559
+Total length (>= 25000 bp)	12804034
+Total length (>= 50000 bp)	4223972
+# contigs	2270
+Largest contig	111532
+Total length	27330396
+GC (%)	50.19
+N50	23488
+N90	6120
+auN	28334.4
+L50	352
+L90	1212
+# N's per 100 kbp	0.00
